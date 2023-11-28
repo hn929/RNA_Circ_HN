@@ -1,3 +1,5 @@
+#Step 1b: Filtering of rRNA from 2dpf samples using bowtie2 alignment
+
 #!/bin/bash
 #$ -l h_rt=24:00:00
 #$ -l h_vmem=30G
