@@ -1,8 +1,11 @@
+#Step 1a: Build Bowtie2 index for reference genome 
+#This step may be skipped if already built for 2dpf (Step 1a) as it is the same index
+
 #!/bin/bash
 #$ -l h_rt=12:00:00
 #$ -l h_vmem=5G
-#$ -o /home/hn2435/RNA_Circtools/Step_1/Step_1a_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.out
-#$ -e /home/hn2435/RNA_Circtools/Step_1/Step_1a_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.err
+#$ -o /home/hn2435/external/github/RNA_Circ_HN/5dpf/output_logs/Step_1_Remove_rRNA/Step_1a_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.out
+#$ -e /home/hn2435/external/github/RNA_Circ_HN/5dpf/output_logs/Step_1_Remove_rRNA/Step_1a_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.err
 #$ -N Step_1a_Build_Reference_Index
 #$ -j y
 #$ -q csg.q

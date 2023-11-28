@@ -1,0 +1,7 @@
+                                
+                                
+Job started at: 2023-11-22 14:03:00
+                                
+Indexing a reference genome using bowtie2
+/var/spool/gridengine/execd/node82/job_scripts/6930619: line 48: unexpected EOF while looking for matching `"'
+/var/spool/gridengine/execd/node82/job_scripts/6930619: line 54: syntax error: unexpected end of file

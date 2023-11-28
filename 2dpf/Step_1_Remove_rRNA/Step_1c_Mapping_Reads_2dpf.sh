@@ -1,8 +1,8 @@
 #!/bin/bash
 #$ -l h_rt=24:00:00
 #$ -l h_vmem=50G
-#$ -o /home/hn2435/external/github/RNA_Circ_HN/script_circ/Step_1_Remove_rRNA/Step_1c_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.out
-#$ -e /home/hn2435/RNA_Circtools/Step_1/Step_1c_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.err
+#$ -o /home/hn2435/external/github/RNA_Circ_HN/2dpf/Step_1_Remove_rRNA/output_logs/Step_1_Remove_rRNA/Step_1c_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.out
+#$ -e /home/hn2435/external/github/RNA_Circ_HN/2dpf/Step_1_Remove_rRNA/output_logs/Step_1c_BGI_CD_RNA_CD_BATCH1_RNA_ZFR_CGTRLL230605_$JOB_ID.err
 #$ -N Step_1c_Mapping_Reads
 #$ -j y
 #$ -q csg.q

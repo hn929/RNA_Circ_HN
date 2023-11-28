@@ -1,0 +1,13 @@
+Error while flushing and closing output
+terminate called after throwing an instance of 'int'
+Aborted (core dumped)
+(ERR): bowtie2-align exited with value 134
+Output Directory output directory: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna
+                       
+Let's look at the vmem:
+hard resource_list:         h_rt=86400,h_vmem=35G
+usage         1:            cpu=00:00:00, mem=0.00000 GB s, io=0.00000 GB, vmem=N/A, maxvmem=N/A
+                       
+                            
+Job ended at: 2023-11-27 15:17:42
+                            

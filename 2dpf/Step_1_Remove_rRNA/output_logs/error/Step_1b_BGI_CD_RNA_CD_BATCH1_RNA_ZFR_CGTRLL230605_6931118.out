@@ -1,0 +1,38 @@
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 21: /mnt/vast/hpc/csg/hn2435/RNA_Circ/raw_data/01.data: Is a directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 36: ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________: command not found
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/bin.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/boot.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/dev.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/etc.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/home.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/home.old.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/initrd.img.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/initrd.img.old.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/lib.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/lib32.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/lib64.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/libx32.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/lost+found.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/media.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/mnt.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/opt.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/proc.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/root.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/run.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/sbin.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/srv.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/sys.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/tmp.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/usr.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/var.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/vmlinuz.log: No such file or directory
+/var/spool/gridengine/execd/node95/job_scripts/6931118: line 62: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna}/vmlinuz.old.log: No such file or directory
+Output Directory output directory: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna
+                       
+Let's look at the vmem:
+hard resource_list:         h_rt=86400,h_vmem=20G
+usage         1:            cpu=00:00:00, mem=0.00000 GB s, io=0.00000 GB, vmem=N/A, maxvmem=N/A
+                       
+                            
+Job ended at: 2023-11-27 13:52:52
+                            

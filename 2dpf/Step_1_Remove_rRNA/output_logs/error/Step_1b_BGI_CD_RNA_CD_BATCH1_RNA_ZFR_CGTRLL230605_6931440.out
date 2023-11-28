@@ -1,0 +1,13 @@
+stat: Bad file descriptor
+Warning: Could not open read file "/mnt/vast/hpc/csg/hn2435/RNA_Circ/raw_data/reads/*_R1.fastq.gz" for reading; skipping...
+Error: No input read files were valid
+(ERR): bowtie2-align exited with value 1
+Output Directory output directory: /mnt/vast/hpc/csg/hn2435/RNA_Circ/rrna
+                       
+Let's look at the vmem:
+hard resource_list:         h_rt=86400,h_vmem=20G
+usage         1:            cpu=00:00:00, mem=0.00000 GB s, io=0.00000 GB, vmem=N/A, maxvmem=N/A
+                       
+                            
+Job ended at: 2023-11-27 14:52:22
+                            
